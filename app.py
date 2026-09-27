@@ -20,10 +20,10 @@ st.set_page_config(
 # FILE PATHS
 # =========================================================
 
-DATA_PATH = "src/data/construction_safety_data.csv"
-MODEL_PATH = "src/data/models/risk_model.pkl"
-SCALER_PATH = "src/data/models/scaler.pkl"
-FEATURES_PATH = "src/data/models/features.pkl"
+DATA_PATH = "construction_safety_data.csv"
+MODEL_PATH = "risk_model.pkl"
+SCALER_PATH = "scaler.pkl"
+FEATURES_PATH = "features.pkl"
 
 
 # =========================================================
